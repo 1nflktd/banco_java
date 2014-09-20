@@ -1,2 +1,2 @@
-banco_bd_java
+banco_java
 =============
